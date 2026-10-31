@@ -75,12 +75,7 @@
 
 ---
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hashir-aidev&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="Hashir's GitHub Statistics"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashir-aidev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-</p>
 
 ---
 
@@ -92,19 +87,8 @@
 
 ---
 
-## 📈 Contribution Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hashir-aidev&theme=github-compact&hide_border=true&area=true&days=90" width="100%" alt="GitHub Contribution Activity Graph"/>
-</p>
 
----
-
-## 🧊 3D GitHub Commit Graph
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-gitblock.svg" width="100%" alt="3D GitHub Contribution Graph"/>
-</p>
 
 ---
 
